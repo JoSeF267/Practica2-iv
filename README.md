@@ -37,3 +37,19 @@ Descomprimimos joomla dentro de la carpeta /var/www/
 ```
 tar xvjf Joomla_2.5.8-Stable-Full_Package.tar.bz2
 ```
+Despues de crar la base de datos y instalar joomla ya lo tenemos todo listo:
+Para poder acceder a joomla cualquier usuario necesitaremos saber la ip hacemos un ifconfig
+```
+ifconfig
+```
+![captura 1] (https://dl.dropbox.com/s/979fibr4dg5u8ci/2.png?m)
+
+en la siguiente captura podemos ver ya joomla funcionando
+
+![captura 2] (https://dl.dropbox.com/s/33o42r13axjuvhe/1.png)
+
+Despues de acceder al menu de joomla instalo mi modulo de ejemplo y lo vemos funcionando en la pantalla principal
+
+![captura 3] (https://dl.dropbox.com/s/7ou0khow4j25h1a/3.png)
+
+y con esto ya tendriamos el joomla funcinando en una jaula con acceso a cualquier usuario.
