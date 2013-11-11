@@ -44,12 +44,16 @@ ifconfig
 ```
 ![captura 1] (https://dl.dropbox.com/s/979fibr4dg5u8ci/2.png?m)
 
+Despues podemos ver como he modificado el fichero ports.conf para saber que estoy en la jaula y le he puesto el puerto 9090
+
+![captura 2] (https://dl.dropbox.com/s/nqu9cn8pl8f0s25/5.png)
+
 en la siguiente captura podemos ver ya joomla funcionando
 
-![captura 2] (https://dl.dropbox.com/s/33o42r13axjuvhe/1.png)
+![captura 3] (https://dl.dropbox.com/s/33o42r13axjuvhe/1.png)
 
-Despues de acceder al menu de joomla instalo mi modulo de ejemplo y lo vemos funcionando en la pantalla principal
+Despues de acceder al menu de joomla instalo mi modulo de ejemplo y lo vemos funcionando en la pantalla principal.Llamando a la ip de la maqunina y el puerto 9090 aparecera nuestro joomla
 
-![captura 3] (https://dl.dropbox.com/s/7ou0khow4j25h1a/3.png)
+![captura 4] (https://dl.dropbox.com/s/ygisim7sw7cxa1c/6.png)
 
 y con esto ya tendriamos el joomla funcinando en una jaula con acceso a cualquier usuario.
